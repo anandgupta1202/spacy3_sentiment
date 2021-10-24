@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
